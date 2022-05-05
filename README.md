@@ -2,6 +2,7 @@
 # JavaScript Avançado I
 
 Projeto desenvolvido durante o curso da #Alura JavaScript: conhecendo o Browser e padrões de projeto.
+FALTAM IMPLEMENTAR A FUNÇÂO DE REQUISIÇÂO E DE DELETAR AS 'TRS'
 
 
 ## Deploy
